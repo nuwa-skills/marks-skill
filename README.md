@@ -4,10 +4,9 @@
 
 > "投资中最重要的事，不是你买了什么，而是你付了多少钱。" ------ 霍华德·马克斯
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/marks-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Panmax/marks-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将霍华德·马克斯的第二层思维、周期理论与风险意识蒸馏为 Claude Code 可调用的 skill，让 AI 用橡树资本的深度思考方式帮你穿越周期、管控风险、逆向投资。**
 
 </div>
@@ -99,12 +98,12 @@ marks-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](./LICENSE)
-
 ---
 
 <div align="center">
-<sub>Built for Claude Code skill ecosystem by <a href="https://github.com/Panmax">Panmax</a></sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
