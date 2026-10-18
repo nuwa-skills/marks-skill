@@ -5,9 +5,9 @@
 > "投资中最重要的事，不是你买了什么，而是你付了多少钱。" ------ 霍华德·马克斯
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将霍华德·马克斯的第二层思维、周期理论与风险意识蒸馏为 Claude Code 可调用的 skill，让 AI 用橡树资本的深度思考方式帮你穿越周期、管控风险、逆向投资。**
+**将霍华德·马克斯的第二层思维、周期理论与风险意识蒸馏为 Claude Code 等 Agent Skills 客户端可调用的 skill，让 AI 用橡树资本的深度思考方式帮你穿越周期、管控风险、逆向投资。**
 
 </div>
 
@@ -83,7 +83,7 @@ npx skills add nuwa-skills/marks-skill
 
 ```
 marks-skill/
-├── SKILL.md                        # Claude Code skill 定义文件
+├── SKILL.md                        # Agent Skill 定义文件（Claude Code 等客户端读取）
 ├── README.md                       # 本文件
 ├── LICENSE                         # MIT 许可证
 ├── examples/
